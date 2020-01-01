@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://moniehaite.drinkingdiary.com/sitemap.xml
